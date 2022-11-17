@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/codify/public_html/systemdev
+    - export DEPLOYPATH=/home/codify/public_html/systemdev/
     - /bin/cp -r * $DEPLOYPATH
