@@ -1,4 +1,6 @@
 <?php
+
+// This is a comment
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
